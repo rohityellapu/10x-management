@@ -1,0 +1,17 @@
+{
+  "name": "10x-management-project",
+  "version": "1.0.0",
+  "description": "10x management project (PRT module) test2",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "rohit",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1",
+    "nodemon": "^2.0.20"
+  }
+}
